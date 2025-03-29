@@ -1,3 +1,3 @@
-I’m Raymond Baker. I have a focus in homotopy type theory and the univalent foundations of mathematics, higher category theory, and functional programming.
+I’m Raymond Baker. I'm currently working as a professional Haskell programmer. I have interests in dependently type programming, type driven development, homotopy type theory, and mathematics more generally.
 
 For contact information or more details about my interests, please see [my website](https://morphismz.github.io/).
